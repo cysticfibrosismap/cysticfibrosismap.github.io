@@ -16,7 +16,7 @@ The network is presented in the Systems Biology Graphical Notation (SBGN) standa
 
 <table>
     <tr>
-        <td style="width: 400px;" align="center"><strong>wt-CFTR and F508del-CFTR</strong></td>
+        <td style="width: 600px;" align="center"><strong>wt-CFTR and F508del-CFTR</strong></td>
     </tr>
 </table>
 <table>
@@ -26,8 +26,8 @@ The network is presented in the Systems Biology Graphical Notation (SBGN) standa
 </table>
 <br />
 
-# Mechanistic representation in SBGN Process Description
+# Representation of modules included on CyFi-MAP
 
-<p>An initial diagram of CFTR life cycle shown as a set of processes. The complete reconstruction is in preparation.</p>
+<p>A diagram of CFTR life cycle processes included on the map is shown. This information will be updated and continuously growing.</p>
 
 <img src="/images/maps/CFTR_PD_V03.png" width="600"/>
