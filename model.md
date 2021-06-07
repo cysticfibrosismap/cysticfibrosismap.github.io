@@ -1,20 +1,30 @@
 ---
 layout: default
-title: Model
+title: CyFi-MAP
 permalink: /model/
 ---
 
-# Model of cystic fibrosis
+# CyFi-MAP - A Cystic Fibrosis Disease Map
 
-A computational model of cystic fibrosis is based on the CF-MAP reconstruction. Hypothesis and assumptions are added on the top of the known described mechanisms.
+CyFi-MAP consist on a high-quality diagram of the known described mechanisms involved in Cystic Fibrosis (CF) to elucidate the underlying molecular and cellular events.
 
-The goal is to develop a computational model of molecular mechanisms which are affected in cystic fibrosis and to quantitatively elucidate the underlying molecular and cellular events.
+This disease map is divided into two submaps: wild type CFTR (wt-CFTR) and the most common mutant F508del-CFTR.
 
-The objectives are:
 
-1. Integrate the published ‘omics data for a broader view of CF allowing for an integrated perspective of the available knowledge which will include the relevant molecular interactions. This will involve bringing together the available data in a flexible information system that is able to encompass the relevant information and metadata. 
+The main objectives are:
 
-2. Construct a logical model network from the available data using Bayesian or Markov model.
+- To archive molecular mechanisms and biological pathways reported to be relevant to CFTR.
 
-3. Test and stress the developed model so that it is possible to make an inference by changing and modifying the model inputs. Results will be verified against available experimental data and new essays will be proposed to validate the model consistency.
+- To visualize CFTR pathways in protein cycle processes.
+
+- To understand and be able to follow the main differences between both submaps.
+
+
+What does allow:
+
+- Search a protein in the CyFi-MAP to be able to see if its described.
+
+- Check pathways and interactions location-specific inside the cell.
+
+- Comment and suggest information to be included in the CyFi-MAP.
 
