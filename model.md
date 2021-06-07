@@ -1,13 +1,13 @@
 ---
 layout: default
 title: CyFi-MAP
-permalink: /CyFi-MAP/
+permalink: /model/
 ---
 
 # CyFi-MAP - A Cystic Fibrosis Disease Map
 
 CyFi-MAP consist on a high-quality diagram of the known described mechanisms involved in Cystic Fibrosis (CF) to elucidate the underlying molecular and cellular events.
-
+All information included is retrieved from literature and databases. CF experts are involved in the curation and accurate representation of the map.
 This disease map is divided into two submaps: wild type CFTR (wt-CFTR) and the most common mutant F508del-CFTR.
 
 
