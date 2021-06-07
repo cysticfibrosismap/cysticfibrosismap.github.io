@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CyFi-MAP
-permalink: /model/
+permalink: /CyFi-MAP/
 ---
 
 # CyFi-MAP - A Cystic Fibrosis Disease Map
