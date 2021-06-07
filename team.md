@@ -36,8 +36,8 @@ permalink: /team/
 <table>
     <tr>
       <td style="width: 200px;"><p style="margin:4px;"><strong>Carlos Farinha</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Faculty of Sciences, University of Lisbon, Lisbon, Portugal</font></p></td>
-      <td style="width: 200px;"><p style="margin:4px;"><strong>André Falcão</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Institute for Physiology, University of Regensburg, Regensburg, Germany</font></p></td>
-      <td style="width: 200px;"><p style="margin:4px;"><strong>Margarida D. Amaral</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Biosciences Institute, University Medical School, Newcastle University, Newcastle, England </font></p></td>
+      <td style="width: 200px;"><p style="margin:4px;"><strong>Michael Gray</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Biosciences Institute, University Medical School, Newcastle University, Newcastle, England</font></p></td>
+      <td style="width: 200px;"><p style="margin:4px;"><strong>Karl Kunzelmann</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Institute for Physiology, University of Regensburg, Regensburg, Germany</font></p></td>
     </tr>
 </table>
 
