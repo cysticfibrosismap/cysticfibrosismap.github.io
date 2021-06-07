@@ -8,7 +8,7 @@ permalink: /about/
 
 The project was initiated by the [University of Lisbon](https://www.ulisboa.pt/en) and is designed as a joint effort of experts in cystic fibrosis and computational biology research groups. It progresses in the format of a PhD project and is led by Catarina Pereira, a PhD student at the University of Lisbon.  
 
-The CF-MAP project develops in alliance with the [Disease Maps Community](http://disease-maps.org/) and communicates with other groups for exchanging experience and best practices.
+The CyFi-MAP project develops in alliance with the [Disease Maps Community](http://disease-maps.org/) and communicates with other groups for exchanging experience and best practices.
 
 # Contact
 
