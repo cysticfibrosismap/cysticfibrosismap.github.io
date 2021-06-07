@@ -30,4 +30,4 @@ The network is presented in the Systems Biology Graphical Notation (SBGN) standa
 
 <p>A diagram of CFTR life cycle processes included on the map is shown. This information will be updated and continuously growing.</p>
 
-<img src="/images/maps/CFTR_PD_V03.png" width="600"/>
+<img src="/images/maps/modules.png" width="1000"/>
