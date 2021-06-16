@@ -30,7 +30,7 @@ permalink: /team/
       <td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/CarlosFarinha.jpg" width="160"/></p></td>
       <td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/MichaelGray.jpg" width="160"/></p></td>
       <td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/KarlKunzelmann.jpg" width="160"/></p></td>
-        
+      <td style="width: 200px;"> </td>
     </tr>
 </table>
 <table>
@@ -38,6 +38,7 @@ permalink: /team/
       <td style="width: 200px;"><p style="margin:4px;"><strong>Carlos Farinha</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Faculty of Sciences, University of Lisbon, Lisbon, Portugal</font></p></td>
       <td style="width: 200px;"><p style="margin:4px;"><strong>Michael Gray</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Biosciences Institute, University Medical School, Newcastle University, Newcastle, England</font></p></td>
       <td style="width: 200px;"><p style="margin:4px;"><strong>Karl Kunzelmann</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Institute for Physiology, University of Regensburg, Regensburg, Germany</font></p></td>
+      <td style="width: 200px;"> </td>
     </tr>
 </table>
 
