@@ -27,9 +27,9 @@ permalink: /team/
 
 <table>
     <tr>
-      <td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/CMFarinha_2.png" width="160"/></p></td>
-      <td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/mike-gray-30441451.jpg" width="160"/></p></td>
-      <td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/karl.jpg" width="160"/></p></td>
+      <td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/CarlosFarinha.jpg" width="160"/></p></td>
+      <td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/MichaelGray.jpg" width="160"/></p></td>
+      <td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/KarlKunzelmann.jpg" width="160"/></p></td>
         
     </tr>
 </table>
