@@ -22,5 +22,5 @@ Alexander Mazein [alexander.mazein@uni.lu](mailto:alexander.mazein@uni.lu)
 
 # Funding
 
-This work is supported by the [Fundação para a Ciência e a Tecnologia](https://www.fct.mctes.pt/) through the PhD Grant ref. PD/BD/131405/2017.
+Work in MDA lab is supported by UIDB/04046/2020 and UIDP/04046/2020 centre grants (to BioISI) from FCT/MCTES Portugal. CP was recipient of fellowship SFRH/PD/BD/131405/2017. The project was supported in part by the Innovative Medicines Initiative Joint Undertaking under grant agreement no. IMI 115446 (eTRIKS), resources of which are composed of financial contributions from the European Union’s Seventh Framework Programme (FP7/2007-2013) and EFPIA companies. 
 
