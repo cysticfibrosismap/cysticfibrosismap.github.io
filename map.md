@@ -34,20 +34,33 @@ The network is presented in the Systems Biology Graphical Notation (SBGN) standa
 
 # Endoplasmic Reticulum folding in wt-CFTR and F508del-CFTR
 
-<img src="/images/maps/CFTR_folding.svg" width="2000"/>
-<img src="/images/maps/F508del_folding.svg" width="2000"/>
+<p> Endoplasmic reticulum (ER) Folding in both submaps. The four ER Quality Control checkpoints are present with wt-CFTR in blue.</p>
+
+</p><img src="/images/maps/CFTR_folding.svg" width="2000"/></p>
+
+<p> In F508del-CFTR submap, only the first ER Quality Control checkpoint is present with F508del-CFTR in green.</p>
+
+</p><img src="/images/maps/F508del_folding.svg" width="2000"/></p>
 
 
 # Plasma membrane stabilization in wt-CFTR and F508del-CFTR
+<p> Plasma membrane (PM) stabilization in both submaps. wt-CFTR in blue is delivered to the PM and stabilized with several proteins involved in its anchoring.</p>
 
-<img src="/images/maps/CFTR_stabilization.svg" width="2000"/>
-<img src="/images/maps/F508del_stabilization.svg" width="2000"/>
+</p><img src="/images/maps/CFTR_stabilization.svg" width="2000"/></p>
+
+<p> In F508del-CFTR submap, F508del-CFTR appear in red because it is rescue through low temperature or chemical compounds. Proteins in yellow bind exclusively F508del-CFTR.</p>
+
+</p><img src="/images/maps/F508del_stabilization.svg" width="2000"/></p>
 
 
 # Recycling/Degradation at sorting endosome in wt-CFTR and F508del-CFTR
+<p> Sorting endosome in both submaps. wt-CFTR is represented being recycled through different pathways, either directly to the PM or through Golgi, and being degraded. </p>
 
-<img src="/images/maps/CFTR_sorting.svg" width="2000"/>
-<img src="/images/maps/F508del_sorting.svg" width="2000"/>
+</p><img src="/images/maps/CFTR_sorting.svg" width="2000"/></p>
+
+<p> F508del-CFTR is characterized by not being recycled, represented only in a degradation pathway with several extra proteins assisting.</p>
+
+</p><img src="/images/maps/F508del_sorting.svg" width="2000"/></p>
 
 
 
