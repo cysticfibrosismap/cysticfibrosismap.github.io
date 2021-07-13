@@ -31,3 +31,24 @@ The network is presented in the Systems Biology Graphical Notation (SBGN) standa
 <p>A diagram of CFTR life cycle processes included on the map is shown. This information will be updated and continuously growing.</p>
 
 <img src="/images/maps/modules.png" width="1000"/>
+
+# Endoplasmic Reticulum folding in wt-CFTR and F508del-CFTR
+
+
+<img src="/images/maps/CFTR_folding.svg" width="1000"/>
+<img src="/images/maps/F508del_folding.svg" width="1000"/>
+
+# Plasma membrane stabilization in wt-CFTR and F508del-CFTR
+
+<img src="/images/maps/CFTR_stabilization.svg" width="1000"/>
+<img src="/images/maps/F508del_stabilization.svg" width="1000"/>
+
+
+# Recycling/Degradation at sorting endosome in wt-CFTR and F508del-CFTR
+
+<img src="/images/maps/CFTR_sorting.svg" width="1000"/>
+<img src="/images/maps/F508del_sorting.svg" width="1000"/>
+
+
+
+
